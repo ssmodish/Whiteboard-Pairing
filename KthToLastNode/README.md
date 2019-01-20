@@ -22,6 +22,6 @@ b.next = c;
 c.next = d;
 d.next = e;
 
-kthToLastNode(2, a);  // returns the node with value "Dobermann" (the 2nd to last node)
+kthToLastNode(2, a);  // returns the node with value "Cairne Terrier" (the 2nd to last node)
 ```
 
